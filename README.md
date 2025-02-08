@@ -1,4 +1,4 @@
-# PsdSmartCleaner-PSD-智能清理冗余数据
+# PsdSmartCleaner-PSD智能清理
 # Photoshop 智能清理脚本
 
 ## 简介
@@ -27,6 +27,7 @@
 - **批量处理**：支持一次性处理多个 PSD 文件。建议勾上**图片转原始格式**
 - **----单文件恢复----**
 - **恢复快照**：单文件处理支持恢复到之前的历史状态（恢复快照）
+![image](https://github.com/user-attachments/assets/dde1954c-fa5d-4bcb-b79c-0d2345095b6a)
 
 ## 安装
 
